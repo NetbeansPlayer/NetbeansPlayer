@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m interested in programs and henati
+- 👀 I’m interested in programs and hentai
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on Elon musk
 - 📫 How to reach me miguel_16
