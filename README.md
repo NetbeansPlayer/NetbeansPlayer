@@ -15,7 +15,7 @@ Hobbies:
      •	Read. 📖
      •	Gym. 🥷
      •	Eat. 🍽️
-     •	Go out my friend.🤜🤛
+     •	Go out whith my friend.🤜🤛
      •	Enjoy the life. 🤴
 
 
