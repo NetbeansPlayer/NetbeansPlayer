@@ -3,7 +3,7 @@
 
 -I like cybersecurity, networks and web apps. 💻
 
--I use virtualbox, kali, metasploitand other tools for practice in a cybersecurity laboratory and for web apps i like to use react, next.js and sometime laravel.
+-I use virtualbox, kali, metasploit and other tools for practice in a cybersecurity laboratory and for web apps i like to use react, next.js and sometime laravel.
 
 -Randon Facts:
      •	I like anime and my favorite is Bleach. BAAAAANNNN KAI!!!!. 🗡️
